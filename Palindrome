@@ -1,0 +1,7 @@
+a=(input("enter the word"))
+b=a.casefold()
+c=b[::-1]
+if a == c :
+    print("the word is a  Palindrome")
+else:
+    print("the word is not a Palindrome")
