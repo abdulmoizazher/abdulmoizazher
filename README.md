@@ -16,4 +16,4 @@ A undergraduate student pursuing Software Engineering at the NED university of e
 - **Degree:** Bachelor's in Software Engineering
 
 ## 📧 Contact
-- **Email:** [personal.abdulmoizazher@gmail.com](mailto:personal.abdulmoizazher@gmail.com)
+- **Email:** [abdulmoizazher@gmail.com](mailto:abdulmoizazher@gmail.com)
