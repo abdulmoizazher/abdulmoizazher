@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Abdul Mueed
+# Hi! 👋 I'm Abdul Moiz Azher
 
 ## 🎓 Introduction
 A undergraduate student pursuing Software Engineering at the NED university of engineering and technology. motivated learner hungry for more experience and making new projects 
