@@ -19,7 +19,3 @@ A undergraduate student pursuing Software Engineering at the NED university of e
 - **Email:** [abdulmoizazher@gmail.com](mailto:abdulmoizazher@gmail.com)
 
   
-## 📊 Github stats
-[![TheAM01's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulMoizAzher&theme=darcula)](https://github.com/abdulmoizazher/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoizazher&layout=donut&theme=darcula)](https://github.com/abdulmoizazher)
